@@ -1,0 +1,8 @@
+config/private
+node_modules
+/lib
+database
+newrelic_agent.log
+deploy.tar.gz
+public/assets
+public/bundled_assets
